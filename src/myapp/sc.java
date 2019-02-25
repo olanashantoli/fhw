@@ -10,6 +10,7 @@ public class sc {
 	public int count=0;
  
 	 
+	
 	 public void addBook( int price , String name) { 
 			Books b = new Books() ;
 			arry.add(b) ;
